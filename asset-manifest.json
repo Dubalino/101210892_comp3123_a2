@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dubalino/101210892_comp3123_a2.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Dubalino/101210892_comp3123_a2.git/static/js/main.86a7b320.chunk.js",
+    "main.js.map": "/Dubalino/101210892_comp3123_a2.git/static/js/main.86a7b320.chunk.js.map",
+    "runtime-main.js": "/Dubalino/101210892_comp3123_a2.git/static/js/runtime-main.b1e4667b.js",
+    "runtime-main.js.map": "/Dubalino/101210892_comp3123_a2.git/static/js/runtime-main.b1e4667b.js.map",
+    "static/js/2.4faf4d47.chunk.js": "/Dubalino/101210892_comp3123_a2.git/static/js/2.4faf4d47.chunk.js",
+    "static/js/2.4faf4d47.chunk.js.map": "/Dubalino/101210892_comp3123_a2.git/static/js/2.4faf4d47.chunk.js.map",
+    "static/js/3.afc98aea.chunk.js": "/Dubalino/101210892_comp3123_a2.git/static/js/3.afc98aea.chunk.js",
+    "static/js/3.afc98aea.chunk.js.map": "/Dubalino/101210892_comp3123_a2.git/static/js/3.afc98aea.chunk.js.map",
+    "index.html": "/Dubalino/101210892_comp3123_a2.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Dubalino/101210892_comp3123_a2.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4faf4d47.chunk.js.LICENSE.txt": "/Dubalino/101210892_comp3123_a2.git/static/js/2.4faf4d47.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Dubalino/101210892_comp3123_a2.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1e4667b.js",
+    "static/js/2.4faf4d47.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.86a7b320.chunk.js"
+  ]
+}
